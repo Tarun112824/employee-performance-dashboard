@@ -1,0 +1,5 @@
+# Python dependencies
+pandas==2.0.3
+sqlalchemy==2.0.15
+matplotlib==3.7.1
+psycopg2-binary==2.9.6

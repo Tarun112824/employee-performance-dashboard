@@ -1,0 +1,15 @@
+# Employee Performance Analytics Dashboard
+## 🛠 Tech Stack
+- **Python**: ETL, Pandas, ReportLab  
+- **Java**: Spring Boot REST API  
+- **SQL**: Optimized queries, stored procedures  
+
+## 🚀 Setup
+1. Clone repo: `git clone [url]`
+2. Run database: `docker-compose up -d`
+3. Start Python ETL: `cd python && pip install -r requirements.txt`
+4. Start Java API: `cd java && mvn spring-boot:run`
+
+## 👥 Contributors
+- [@PythonDev](link): Data pipelines & reports  
+- [@JavaDev](link): API & business logic  
